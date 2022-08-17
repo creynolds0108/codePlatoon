@@ -5,3 +5,4 @@ function totalChange(amountPaid, totalCost) {
   // ---- TESTS - don't change these ---- //
   console.log(totalChange(100, 75) === 25)
   console.log(totalChange(10, 7.28) === 2.72)
+  console.log(totalChange('test'))
